@@ -30,7 +30,7 @@ Please consult Google if you need to install any of the pre-requisites
   /GETAllScreenshot.png)
 
 ### Running pytest
-Run `pytest app/tests.py`.
+- Run `pytest app/tests.py`.
 
 ## Build the Docker Image
 - Build your FastAPI image: `docker build -t app_image .`
