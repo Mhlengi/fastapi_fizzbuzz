@@ -21,12 +21,11 @@ Please consult Google if you need to install any of the pre-requisites
 - or Alternative [localhost home application(redoc)](http://127.0.0.1:8000/redoc)
 - To list all FizzBuzz objects from Api request, use `GET` http Method.
 - `GET(List)` endpoint `http://127.0.0.1:8000/fizzbuzz`
-- ![GET LIST API](https://github.com/Mhlengi/cape_technical_test_wifi_access_point/blob/master
-  /GETAllScreenshot.png)
+- ![GET LIST API](https://github.com/Mhlengi/fastapi_fizzbuzz/blob/main/docs_images/docs.png)
 
 - To retrieve detail of FizzBuzz object from Api request, use `GET` http Method.
 - `GET(Retrieve)` endpoint `http://127.0.0.1:8000/fizzbuzz/1`
-- ![GET RETRIEVE API](https://github.com/Mhlengi/cape_technical_test_wifi_access_point/blob/master
+- ![GET RETRIEVE API](https://github.com/Mhlengi/fastapi_fizzbuzz/blob/master
   /GETAllScreenshot.png)
 
 ### Running pytest
