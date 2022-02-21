@@ -18,6 +18,8 @@ Please consult Google if you need to install any of the pre-requisites
 
 ## Interactive API docs or Alternative API docs(redoc)   
 - Now go to [localhost home application(docs)](http://127.0.0.1:8000/docs)
+- ![Swagger Docs](https://github.com/Mhlengi/fastapi_fizzbuzz/blob/master
+  /GETAllScreenshot.png)
 - or Alternative [localhost home application(redoc)](http://127.0.0.1:8000/redoc)
 - To list all FizzBuzz objects from Api request, use `GET` http Method.
 - `GET(List)` endpoint `http://127.0.0.1:8000/fizzbuzz`
