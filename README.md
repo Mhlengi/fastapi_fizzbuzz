@@ -26,7 +26,7 @@ Please consult Google if you need to install any of the pre-requisites
 - ![GET LIST API](https://github.com/Mhlengi/fastapi_fizzbuzz/blob/main/docs_images/docs_all.png)
 
 - To retrieve detail of FizzBuzz object from Api request, use `GET` http Method.
-- `GET(Retrieve)` endpoint `http://127.0.0.1:8000/fizzbuzz/1`
+- `GET(Retrieve)` endpoint `http://127.0.0.1:8000/fizzbuzz/15`
 - ![GET RETRIEVE API](https://github.com/Mhlengi/fastapi_fizzbuzz/blob/main/docs_images/docs_retreive.png)
 
 ### Running pytest
